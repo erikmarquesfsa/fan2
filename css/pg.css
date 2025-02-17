@@ -5,3 +5,31 @@ header, .navbar {
 #logo{
     width: 75px;
 }
+
+#nav-container{
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.navbar-brand{
+    padding: 0;
+    color: #fff;
+}
+
+.navbar-brand:hover{
+    color: #fff;
+}
+
+#navbar-links a{
+    color: #fff;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link{
+    padding:1rem .8rem;
+}
+
+.nav-item.active{
+    border-bottom:3px solid #fff;
+}
+
+
