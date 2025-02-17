@@ -32,4 +32,23 @@ header, .navbar {
     border-bottom:3px solid #fff;
 }
 
+#dados_in{
+    margin-top: 150px;
+}
+
+
+.main-title{
+    color:#444;
+    margin: 0 0 65px 0;
+    font-size: 40px;
+    text-align: center;
+
+}
+
+.about-title{
+    font-size:17px ;
+    color: #444;
+    text-transform: uppercase;
+    font-weight: bold;
+}
 
