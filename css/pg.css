@@ -118,3 +118,22 @@ header, .navbar {
     width: 40%;
     height: 40px;
 }
+
+#news-btn{
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border: 1px solid #65daf9;
+    background-color: #65daf9;
+    text-transform: uppercase;
+    color: #fff;
+    height: 40px;
+    padding: 0 30px;
+    margin-left: -130px;
+    position: absolute;
+    transition: .5s;
+}
+
+#news-btn:hover{
+    background-color: #fff;
+    color: #65daf9;
+}
