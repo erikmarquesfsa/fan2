@@ -52,5 +52,16 @@ header, .navbar {
     font-weight: bold;
 }
 
+#about-list{
+    list-style: none;
+    padding-left: 0;
+}
 
+#about-list li{
+ line-height: 30px;
+}
 
+#about-list i{
+    color:#65daf9;
+    margin-right: 15px;
+}
